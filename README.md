@@ -13,7 +13,7 @@ My name is *Sami Enos*! I'm a senior at [UNI](https://uni.edu) studying **Intera
 
 ![Look How Cute This Cat Is](https://azure.wgp-cdn.co.uk/app-yourcat/posts/maine_coon_kitten.jpg) 
 
-As @manicsparkle once said:
+As "@manicsparkle" once said:
 >Sami Enos is the
 >best student ever!
 
@@ -65,10 +65,10 @@ As @manicsparkle once said:
 
 
 My Plans for this weekend include:
-- [] Go to the Glee Club Christmas Show
-- [] Hangout with friends
-- [] Go to Holidaze at Social House
-- [] \*SLEEEEEEP\*
+- [ ] Go to the Glee Club Christmas Show
+- [ ] Hangout with friends
+- [ ] Go to Holidaze at Social House
+- [ ] \*SLEEEEEEP\*
 
 
 Wow | Woah
