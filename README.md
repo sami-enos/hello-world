@@ -11,7 +11,7 @@ My name is *Sami Enos*! I'm a senior at [UNI](https://uni.edu) studying **Intera
   * Manifesting :crystal_ball:
   * Memes :frog:
 
-![Here is a pic of my friends and I](https://www.instagram.com/p/B2HPyUHgTjW/) 
+![Look How Cute This Cat Is](https://azure.wgp-cdn.co.uk/app-yourcat/posts/maine_coon_kitten.jpg) 
 
 As @manicsparkle once said:
 >Sami Enos is the
@@ -71,4 +71,8 @@ My Plans for this weekend include:
 [] \*SLEEEEEEP\*
 
 
+Wow | Woah
+--- | ---
+wOoOoW | wOoOaH
+WOOOOOOOW | WOOOOAHHHHH
 
