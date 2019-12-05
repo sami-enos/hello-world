@@ -65,10 +65,10 @@ As @manicsparkle once said:
 
 
 My Plans for this weekend include:
-[] Go to the Glee Club Christmas Show
-[] Hangout with friends
-[] Go to Holidaze at Social House
-[] \*SLEEEEEEP\*
+- [] Go to the Glee Club Christmas Show
+- [] Hangout with friends
+- [] Go to Holidaze at Social House
+- [] \*SLEEEEEEP\*
 
 
 Wow | Woah
